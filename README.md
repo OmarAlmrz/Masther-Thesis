@@ -45,5 +45,5 @@ Master-Thesis/
 For the labeling, we employed an open-source tool called Label Studio.
 https://labelstud.io/
 
-## Data Collection
-Data was collected with two smartwatch models. Raw data can be found in data/data_raw/ folder.
+## Data
+Raw and processed data can be found in https://tubcloud.tu-berlin.de/apps/files/files?dir=/Shared/smartwatch-projects/project6_omar
